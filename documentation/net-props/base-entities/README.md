@@ -1,4 +1,4 @@
-# Base Entities
+# ⚙ Base Entities
 
 ​
 
