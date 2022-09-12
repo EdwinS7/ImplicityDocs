@@ -8,6 +8,7 @@
 * `m_CollisionGroup` (integer)
 * `m_flShadowCastDistance` (float)
 * `m_hEffectEntity` (integer)
+* `m_bIsScoped` (integer)
 * `m_iParentAttachment` (integer)
 * `m_iTextureFrameIndex` (integer)
 * `m_bSimulatedEveryTick` (integer)
