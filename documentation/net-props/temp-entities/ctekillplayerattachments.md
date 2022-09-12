@@ -1,0 +1,3 @@
+# CTEKillPlayerAttachments
+
+DT\_TEKillPlayerAttachments
