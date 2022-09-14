@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome - urmom](README.md)
+* [Welcome](README.md)
 * [Official Website](https://implicity.win/)
 
 ## USEFUL INFORMATION
@@ -18,7 +18,7 @@
 * [⚙ API Reference](documentation/api-reference/README.md)
   * [⚙ Functions](documentation/api-reference/functions/README.md)
     * [⚙ Client](documentation/api-reference/functions/client.md)
-    * [⚙ menu](documentation/api-reference/functions/menu.md)
+    * [⚙ Menu](documentation/api-reference/functions/menu.md)
     * [⚙ Game rules](documentation/api-reference/functions/game-rules.md)
     * [⚙ Net](documentation/api-reference/functions/net.md)
     * [⚙ Engine](documentation/api-reference/functions/engine.md)
