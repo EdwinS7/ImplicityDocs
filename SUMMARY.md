@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome nigger](README.md)
+* [Welcome](README.md)
 * [Official Website](https://implicity.win/)
 
 ## USEFUL INFORMATION
